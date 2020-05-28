@@ -54,11 +54,11 @@ body {
     font-size: 20px;
 }
 
-.row .titlemenu .menu ul li .fa-building {
+.row .titlemenu .menu ul li .fa-bookmark {
     color: #00c4ff;
 }
 
-.row .titlemenu .menu ul li .ks {
+.row .titlemenu .menu ul li .cn {
     color: #00c4ff;
 }
 
@@ -68,7 +68,7 @@ body {
     text-decoration: none;
 }
 
-.ks:before {
+.cn:before {
     content: "";
     position: absolute;
     width: 135%;
@@ -81,15 +81,15 @@ body {
     transition: 0.4s;
 }
 
-.ks:hover:before {
+.cn:hover:before {
     background-color: #00c4ff91;
 }
 
-.ks:hover {
+.cn:hover {
     text-decoration: none;
 }
 
-.row .titlemenu .menu ul li .ks {
+.row .titlemenu .menu ul li .cn {
     color: #00c4ff;
 }
 
